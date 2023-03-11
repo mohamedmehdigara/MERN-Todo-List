@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/Hsins/udemy_MERN-Todo-List#readme",
   "dependencies": {
-    "concurrently": "^4.1.1",
+    "concurrently": "^7.6.0",
     "express": "^4.17.1",
     "mongoose": "^5.7.5"
   }
